@@ -1,0 +1,7 @@
+C:\Work\Algorithms\Algo\Stairs\bin\Debug\Stairs.exe.config
+C:\Work\Algorithms\Algo\Stairs\bin\Debug\Stairs.exe
+C:\Work\Algorithms\Algo\Stairs\bin\Debug\Stairs.pdb
+C:\Work\Algorithms\Algo\Stairs\obj\Debug\Stairs.csproj.AssemblyReference.cache
+C:\Work\Algorithms\Algo\Stairs\obj\Debug\Stairs.csproj.CoreCompileInputs.cache
+C:\Work\Algorithms\Algo\Stairs\obj\Debug\Stairs.exe
+C:\Work\Algorithms\Algo\Stairs\obj\Debug\Stairs.pdb
