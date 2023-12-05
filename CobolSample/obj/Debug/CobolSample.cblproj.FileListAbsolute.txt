@@ -1,0 +1,8 @@
+C:\Work\Algorithms\Algo\CobolSample\bin\Debug\CobolSample.exe
+C:\Work\Algorithms\Algo\CobolSample\bin\Debug\CobolSample.pdb
+C:\Work\Algorithms\Algo\CobolSample\obj\Debug\CobolSample.cblproj.AssemblyReference.cache
+C:\Work\Algorithms\Algo\CobolSample\obj\Debug\CobolSample.cblproj.CoreCompileInputs.cache
+C:\Work\Algorithms\Algo\CobolSample\obj\Debug\CobolSample.exe
+C:\Work\Algorithms\Algo\CobolSample\obj\Debug\CobolSample.pdb
+C:\Work\Algorithms\Algo\CobolSample\bin\Debug\CobolSample.COBOLSAMPLE_COBSAMPL.idy
+C:\Work\Algorithms\Algo\CobolSample\obj\Debug\CobolSample.COBOLSAMPLE_COBSAMPL.idy
