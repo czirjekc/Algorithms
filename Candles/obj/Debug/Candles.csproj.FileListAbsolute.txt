@@ -1,0 +1,7 @@
+C:\Work\Algorithms\Algo\Candles\bin\Debug\Candles.exe.config
+C:\Work\Algorithms\Algo\Candles\bin\Debug\Candles.exe
+C:\Work\Algorithms\Algo\Candles\bin\Debug\Candles.pdb
+C:\Work\Algorithms\Algo\Candles\obj\Debug\Candles.csproj.AssemblyReference.cache
+C:\Work\Algorithms\Algo\Candles\obj\Debug\Candles.csproj.CoreCompileInputs.cache
+C:\Work\Algorithms\Algo\Candles\obj\Debug\Candles.exe
+C:\Work\Algorithms\Algo\Candles\obj\Debug\Candles.pdb

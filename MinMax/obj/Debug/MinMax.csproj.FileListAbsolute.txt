@@ -1,0 +1,7 @@
+C:\Work\Algorithms\Algo\MinMax\obj\Debug\MinMax.csproj.AssemblyReference.cache
+C:\Work\Algorithms\Algo\MinMax\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
+C:\Work\Algorithms\Algo\MinMax\bin\Debug\MinMax.exe.config
+C:\Work\Algorithms\Algo\MinMax\bin\Debug\MinMax.exe
+C:\Work\Algorithms\Algo\MinMax\bin\Debug\MinMax.pdb
+C:\Work\Algorithms\Algo\MinMax\obj\Debug\MinMax.exe
+C:\Work\Algorithms\Algo\MinMax\obj\Debug\MinMax.pdb
